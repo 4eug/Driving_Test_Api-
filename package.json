@@ -1,0 +1,21 @@
+{
+  "name": "driving_test_api",
+  "version": "1.0.0",
+  "description": "Driving Test Api ",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eugene",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.2"
+    
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.10"
+  }
+}
