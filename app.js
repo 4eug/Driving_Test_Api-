@@ -13,7 +13,7 @@ const indexRoute = require('./routes/index');
 app.use('/posts', postsRoute);
 
 // ROUTES
-app.get('/',indexRoute );
+app.get('',indexRoute );
 
 
 // Connect to DB
