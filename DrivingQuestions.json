@@ -1,100 +1,121 @@
 {
+    "response_code": 0,
     "results": [
-        {
-            "category": "Science: Computers",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "According to the International System of Units, how many bytes are in a kilobyte of RAM?",
-            "correct_answer": "1000",
-            "incorrect_answers": [
-                "512",
-                "1024",
-                "500"
-            ]
-        },
-        {
-            "category": "Science: Computers",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "What five letter word is the motto of the IBM Computer company?",
-            "correct_answer": "Think",
-            "incorrect_answers": [
-                "Click",
-                "Logic",
-                "Pixel"
-            ]
-        },
-        {
-            "category": "Entertainment: Video Games",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "In the game Destiny, who succeeded Peter Dinklage in voicing the protagonist&#039;s &quot;Ghost&quot;?",
-            "correct_answer": "Nolan North",
-            "incorrect_answers": [
-                "John DiMaggio",
-                "Mark Hamill",
-                " Troy Baker"
-            ]
-        },
-        {
-            "category": "Entertainment: Video Games",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "Which Kingdom Hearts game featured the cast of &quot;The World Ends With You&quot;?",
-            "correct_answer": "Dream Drop Distance",
-            "incorrect_answers": [
-                "Birth By Sleep",
-                "365/2 Days",
-                "Re:Chain of Memories"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "In Back to the Future Part II, Marty and Dr. Emmett Brown go to which future date?",
-            "correct_answer": "October 21, 2015",
-            "incorrect_answers": [
-                "August 28, 2015",
-                "July 20, 2015",
-                "January 25, 2015"
-            ]
-        },
-        {
-            "category": "Politics",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "In United States history, how many vice presidents did Franklin D. Roosevelt have during his time in office as president?",
-            "correct_answer": "3",
-            "incorrect_answers": [
-                "1",
-                "2",
-                "0"
-            ]
-        },
-        {
-            "category": "Animals",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "What is the name for a male bee that comes from an unfertilized egg?",
-            "correct_answer": "Drone",
-            "incorrect_answers": [
-                "Soldier",
-                "Worker",
-                "Male"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "Which city features all of their professional sports teams&#039; jersey&#039;s with the same color scheme?",
-            "correct_answer": "Pittsburgh",
-            "incorrect_answers": [
-                "New York",
-                "Seattle",
-                "Tampa Bay"
-            ]
-        }
+      {
+        "category": "Science: Gadgets",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "The term &quot;battery&quot; to describe an electrical storage device was coined by?",
+        "correct_answer": "Benjamin Franklin",
+        "incorrect_answers": [
+          "Nikola Tesla",
+          "Luigi Galvani",
+          " Alessandro Volta"
+        ]
+      },
+      {
+        "category": "Science: Gadgets",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which company designed the &quot;Betamax&quot; video cassette format?",
+        "correct_answer": "Sony",
+        "incorrect_answers": [
+          "Panasonic",
+          "LG",
+          "Fujitsu"
+        ]
+      },
+      {
+        "category": "Science: Gadgets",
+        "type": "boolean",
+        "difficulty": "medium",
+        "question": "The Western Electric Model 500 telephone uses tone dialing to dial phone numbers.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "category": "Science: Gadgets",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which of the following is the standard THX subwoofer crossover frequency?",
+        "correct_answer": "80 Hz",
+        "incorrect_answers": [
+          "70 Hz",
+          "90 Hz",
+          "100 Hz"
+        ]
+      },
+      {
+        "category": "Science: Gadgets",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "Microphones can be used not only to pick up sound, but also to project sound similar to a speaker.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "category": "Science: Gadgets",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "When was the Tamagotchi digital pet released?",
+        "correct_answer": "1996",
+        "incorrect_answers": [
+          "1989",
+          "1992",
+          "1990"
+        ]
+      },
+      {
+        "category": "Science: Gadgets",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "When was the DVD invented?",
+        "correct_answer": "1995",
+        "incorrect_answers": [
+          "2000",
+          "1990",
+          "1980"
+        ]
+      },
+      {
+        "category": "Science: Gadgets",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Mobile hardware and software company &quot;Blackberry Limited&quot; was founded in which country?",
+        "correct_answer": "Canada",
+        "incorrect_answers": [
+          "Norway",
+          "United States of America",
+          "United Kingdom"
+        ]
+      },
+      {
+        "category": "Science: Gadgets",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which round does a WW2 M1 Garand fire?",
+        "correct_answer": ".30-06",
+        "incorrect_answers": [
+          ".308",
+          "7.62",
+          "7.62x51mm"
+        ]
+      },
+      {
+        "category": "Science: Gadgets",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the &quot;Mitsubishi Wakamaru&quot;?",
+        "correct_answer": "A robot",
+        "incorrect_answers": [
+          "A pickup truck",
+          "An motorcycle",
+          "A motorboat"
+        ]
+      }
     ]
-}
+  }
