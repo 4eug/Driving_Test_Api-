@@ -1,121 +1,125 @@
 {
     "response_code": 0,
     "results": [
-      {
-        "category": "Science: Gadgets",
-        "type": "multiple",
-        "difficulty": "easy",
-        "question": "The term &quot;battery&quot; to describe an electrical storage device was coined by?",
-        "correct_answer": "Benjamin Franklin",
-        "incorrect_answers": [
-          "Nikola Tesla",
-          "Luigi Galvani",
-          " Alessandro Volta"
-        ]
-      },
-      {
-        "category": "Science: Gadgets",
-        "type": "multiple",
-        "difficulty": "medium",
-        "question": "Which company designed the &quot;Betamax&quot; video cassette format?",
-        "correct_answer": "Sony",
-        "incorrect_answers": [
-          "Panasonic",
-          "LG",
-          "Fujitsu"
-        ]
-      },
-      {
-        "category": "Science: Gadgets",
-        "type": "boolean",
-        "difficulty": "medium",
-        "question": "The Western Electric Model 500 telephone uses tone dialing to dial phone numbers.",
-        "correct_answer": "False",
-        "incorrect_answers": [
-          "True"
-        ]
-      },
-      {
-        "category": "Science: Gadgets",
-        "type": "multiple",
-        "difficulty": "hard",
-        "question": "Which of the following is the standard THX subwoofer crossover frequency?",
-        "correct_answer": "80 Hz",
-        "incorrect_answers": [
-          "70 Hz",
-          "90 Hz",
-          "100 Hz"
-        ]
-      },
-      {
-        "category": "Science: Gadgets",
-        "type": "boolean",
-        "difficulty": "easy",
-        "question": "Microphones can be used not only to pick up sound, but also to project sound similar to a speaker.",
-        "correct_answer": "True",
-        "incorrect_answers": [
-          "False"
-        ]
-      },
-      {
-        "category": "Science: Gadgets",
-        "type": "multiple",
-        "difficulty": "easy",
-        "question": "When was the Tamagotchi digital pet released?",
-        "correct_answer": "1996",
-        "incorrect_answers": [
-          "1989",
-          "1992",
-          "1990"
-        ]
-      },
-      {
-        "category": "Science: Gadgets",
-        "type": "multiple",
-        "difficulty": "easy",
-        "question": "When was the DVD invented?",
-        "correct_answer": "1995",
-        "incorrect_answers": [
-          "2000",
-          "1990",
-          "1980"
-        ]
-      },
-      {
-        "category": "Science: Gadgets",
-        "type": "multiple",
-        "difficulty": "medium",
-        "question": "Mobile hardware and software company &quot;Blackberry Limited&quot; was founded in which country?",
-        "correct_answer": "Canada",
-        "incorrect_answers": [
-          "Norway",
-          "United States of America",
-          "United Kingdom"
-        ]
-      },
-      {
-        "category": "Science: Gadgets",
-        "type": "multiple",
-        "difficulty": "hard",
-        "question": "Which round does a WW2 M1 Garand fire?",
-        "correct_answer": ".30-06",
-        "incorrect_answers": [
-          ".308",
-          "7.62",
-          "7.62x51mm"
-        ]
-      },
-      {
-        "category": "Science: Gadgets",
-        "type": "multiple",
-        "difficulty": "medium",
-        "question": "What is the &quot;Mitsubishi Wakamaru&quot;?",
-        "correct_answer": "A robot",
-        "incorrect_answers": [
-          "A pickup truck",
-          "An motorcycle",
-          "A motorboat"
-        ]
-      }
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of the following sports is not part of the triathlon?",
+            "correct_answer": "Horse-Riding",
+            "incorrect_answers": [
+                "Cycling",
+                "Swimming",
+                "Running"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who wrote the musical composition, &quot;Rhapsody In Blue&quot;?",
+            "correct_answer": "George Gershwin",
+            "incorrect_answers": [
+                "Irving Berlin",
+                "Duke Ellington",
+                "Johnny Mandel"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "How old was Lyndon B. Johnson when he assumed the role of President of the United States?",
+            "correct_answer": "55",
+            "incorrect_answers": [
+                "50",
+                "60",
+                "54"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "TF2: What code does Soldier put into the door keypad in &quot;Meet the Spy&quot;?",
+            "correct_answer": "1111",
+            "incorrect_answers": [
+                "1432",
+                "1337",
+                "No code"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What was the world&#039;s first handheld game device?",
+            "correct_answer": "Mattel Auto Race",
+            "incorrect_answers": [
+                "Game Boy",
+                "Microvision",
+                "Game &amp; Watch"
+            ]
+        },
+        {
+            "category": "Art",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of these are the name of a famous marker brand?",
+            "correct_answer": "Copic",
+            "incorrect_answers": [
+                "Dopix",
+                "Cofix",
+                "Marx"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the capital of British Columbia, Canada?",
+            "correct_answer": "Victoria",
+            "incorrect_answers": [
+                "Vancouver",
+                "Hope",
+                "Kelowna"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which band released the album &quot;Sonic Highways&quot; in 2014?",
+            "correct_answer": "Foo Fighters",
+            "incorrect_answers": [
+                "Coldplay",
+                "Nickelback",
+                "The Flaming Lips"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In &quot;Puella Magi Madoka Magica&quot;, what is the first name of Madoka&#039;s younger brother?",
+            "correct_answer": "Tatsuya",
+            "incorrect_answers": [
+                "Montoya",
+                "Tomohisa",
+                "Minato"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "How many permanent companions are there in the base game version of Fallout: New Vegas?",
+            "correct_answer": "8",
+            "incorrect_answers": [
+                "7",
+                "9",
+                "6"
+            ]
+        }
     ]
-  }
+}
